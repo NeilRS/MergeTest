@@ -1,0 +1,11 @@
+C:\Repos\MergeTest\MergeTest\MergeTest\bin\Debug\netcoreapp2.0\MergeTest.deps.json
+C:\Repos\MergeTest\MergeTest\MergeTest\bin\Debug\netcoreapp2.0\MergeTest.runtimeconfig.json
+C:\Repos\MergeTest\MergeTest\MergeTest\bin\Debug\netcoreapp2.0\MergeTest.runtimeconfig.dev.json
+C:\Repos\MergeTest\MergeTest\MergeTest\bin\Debug\netcoreapp2.0\MergeTest.dll
+C:\Repos\MergeTest\MergeTest\MergeTest\bin\Debug\netcoreapp2.0\MergeTest.pdb
+C:\Repos\MergeTest\MergeTest\MergeTest\obj\Debug\netcoreapp2.0\MergeTest.csprojAssemblyReference.cache
+C:\Repos\MergeTest\MergeTest\MergeTest\obj\Debug\netcoreapp2.0\MergeTest.csproj.CoreCompileInputs.cache
+C:\Repos\MergeTest\MergeTest\MergeTest\obj\Debug\netcoreapp2.0\MergeTest.AssemblyInfoInputs.cache
+C:\Repos\MergeTest\MergeTest\MergeTest\obj\Debug\netcoreapp2.0\MergeTest.AssemblyInfo.cs
+C:\Repos\MergeTest\MergeTest\MergeTest\obj\Debug\netcoreapp2.0\MergeTest.dll
+C:\Repos\MergeTest\MergeTest\MergeTest\obj\Debug\netcoreapp2.0\MergeTest.pdb
